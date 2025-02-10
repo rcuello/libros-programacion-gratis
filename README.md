@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📚 Libros de Programación en Español y gratuitos
+# 📚 Libros de Programación en Español-Inglés y gratuitos
 
 ![Twitch Status](https://img.shields.io/twitch/status/midudev?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/midudev?style=social)
@@ -99,6 +99,8 @@
 ### ☕ Java
 
 - [Fundamentos de programación en Java](https://www.tesuva.edu.co/phocadownloadpap/Fundamentos%20de%20programcion%20en%20Java.pdf) - Jorge Martínez Ladrón (PDF)
+- [Fundamentos de programación en Java (Opcion 2)](http://pedrobeltrancanessa-biblioteca.weebly.com/uploads/1/2/4/0/12405072/fundamentos_de_programacin_en_java.pdf) - Jorge Martínez Ladrón (PDF)
+- [Java for Python Programmers](https://www.cs.cmu.edu/~mjs/courses/121-F14-W/Java4Python.pdf) - Bradley N. Miller (PDF)
 
 ### 📊 R
 
