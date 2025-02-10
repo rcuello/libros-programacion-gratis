@@ -13,6 +13,7 @@
 - [📚 Libros de Programación en Español y gratuitos](#-libros-de-programación-en-español-y-gratuitos)
   - [📖 Índice](#-índice)
   - [👨‍💻 Generales](#-generales)
+  - [🎯 Rutas de Aprendizaje](#-generales)
   - [Lenguajes de Programación](#lenguajes-de-programación)
     - [🟨 JavaScript](#-javascript)
     - [🟦 TypeScript](#-typescript)
@@ -37,6 +38,15 @@
 
 - [97 cosas que todo programador debe saber](https://97cosas.com/programador/) - Kevlin Henney
 - [Los apuntes de Majo](https://losapuntesdemajo.vercel.app/) - Majo Ledesma
+
+## 🎯 Rutas de Aprendizaje
+### Fundamentos de Programación
+Antes de especializarte en cualquier lenguaje, deberías dominar:
+- [Introducción a la programación](https://www.uv.mx/personal/pmartinez/files/2021/03/Libro-completo-Introduccion-a-la-programacion.pdf) - Pino Herrera (PDF)
+
+### ☕ Ruta Java
+- [Java developer](https://roadmap.sh/java)
+- [SpringBoot developer](https://roadmap.sh/spring-boot)
 
 ## Lenguajes de Programación
 
