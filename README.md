@@ -45,8 +45,8 @@ Antes de especializarte en cualquier lenguaje, deberías dominar:
 - [Introducción a la programación](https://www.uv.mx/personal/pmartinez/files/2021/03/Libro-completo-Introduccion-a-la-programacion.pdf) - Pino Herrera (PDF)
 
 ### ☕ Ruta Java
-- [Java developer](https://roadmap.sh/java)
-- [SpringBoot developer](https://roadmap.sh/spring-boot)
+- [Java developer](https://roadmap.sh/java) - Learn to become a modern java developer (HTML)
+- [SpringBoot developer](https://roadmap.sh/spring-boot) - Learn to become a modern spring boot developer (HTML)
 
 ## Lenguajes de Programación
 
