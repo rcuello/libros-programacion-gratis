@@ -38,7 +38,7 @@
 
 - [97 cosas que todo programador debe saber](https://97cosas.com/programador/) - Kevlin Henney
 - [Los apuntes de Majo](https://losapuntesdemajo.vercel.app/) - Majo Ledesma
-- [Introducción a Git y GitHub] (https://www.uco.es/aulasoftwarelibre/wp-content/uploads/2015/11/git-cosfera-dia-1.pdf) - Sergio Gomez Bachiller (PDF)
+- [Introducción a Git y GitHub](https://www.uco.es/aulasoftwarelibre/wp-content/uploads/2015/11/git-cosfera-dia-1.pdf) - Sergio Gomez Bachiller (PDF)
 
 ## 🎯 Rutas de Aprendizaje
 ### Fundamentos de Programación
